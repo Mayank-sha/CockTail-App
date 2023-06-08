@@ -21,6 +21,11 @@ const Navbar = () => {
             About
           </Link>
         </li>
+        <li>
+         <Link to={"/"} >
+            Services
+          </Link>
+        </li>
       </ul>
     </div>
    </nav>
